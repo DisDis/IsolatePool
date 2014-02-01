@@ -1,0 +1,7 @@
+name: isolate_pool
+author: Igor Demyanov <igor.demyanov@gmail.com>
+version: 0.0.3
+homepage: https://github.com/DisDis/IsolatePool
+description: Dart Isolate pool implementation. Send and recived json object.
+environment:
+  sdk: '>1.1.0'
